@@ -121,4 +121,8 @@ This project demonstrates the ability to take raw business data and convert it i
 
 ![Image](https://github.com/user-attachments/assets/281aa0e4-8631-4561-bc0a-af2eb8561487)
 
+![Image](https://github.com/user-attachments/assets/7c0c5d29-bfd2-4021-a175-6f1e6b3b2ffc)    [PERFORMANCE 1]
+
+![Image](https://github.com/user-attachments/assets/dac8bf56-7da4-4758-b5c4-a6735881fff8)    [PERFORMANCE 2]
+
 
