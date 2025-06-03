@@ -117,6 +117,8 @@ It also serves as an excellent template for e-commerce and retail analytics in r
 
 This project demonstrates the ability to take raw business data and convert it into a clear, interactive, and actionable dashboard using Power BI. It highlights essential data analytics skills such as data cleaning, modeling, DAX calculation, and visual storytelling. By showcasing this dashboard, I aim to demonstrate both technical proficiency in Power BI and the ability to derive insights that support business strategy and operational decisions.
 
-# OUTPUT 
+# OUTPUT [ INTERACTIVE DASHBOARD ]
+
+![Image](https://github.com/user-attachments/assets/281aa0e4-8631-4561-bc0a-af2eb8561487)
 
 
